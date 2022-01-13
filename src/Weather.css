@@ -1,0 +1,37 @@
+.App .list-style {
+  list-style: none;
+  text-align: left;
+  font-size: 20px;
+}
+
+.App .weather-info {
+  text-transform: capitalize;
+}
+
+.App .list-decoration-desc::first-letter {
+  text-transform: capitalize;
+}
+
+.App .list-style::first-letter {
+  text-transform: capitalize;
+}
+
+.App .WeatherSearch {
+  border: solid;
+  border-radius: 10px;
+  padding: 10px 70px;
+}
+
+.App .weather-search {
+  margin: 20px 20px;
+}
+
+.App .search-field {
+  padding: 1px 10px;
+  margin-right: 8px;
+  border-radius: 8px;
+}
+
+.App .complete-weather-info {
+  display: flex;
+}
