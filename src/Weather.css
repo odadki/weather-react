@@ -35,3 +35,7 @@
 .App .complete-weather-info {
   display: flex;
 }
+
+.App .code-link {
+  color: aqua;
+}

@@ -75,6 +75,7 @@ export default function Weather() {
           </span>
         </div>
       </div>
+      <p></p>
     </div>
   );
 }
